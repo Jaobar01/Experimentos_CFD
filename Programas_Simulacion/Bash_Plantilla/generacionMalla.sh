@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#GENERACION MALLA
+
+cd DIRECTORIO_1
+
+./salome -t DIRECTORIO_2
